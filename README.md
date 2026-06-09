@@ -1,8 +1,6 @@
-## Name: Shalimar Kathade 
-## Intern ID: CITS3582
+## Name: Shalimar Kathade Intern ID: CITS3582
 
 ## E-Commerce Insights Dashboard
-
 An interactive Power BI dashboard analyzing e-commerce sales, profit, customer segments, product performance, and regional trends.
 
 ## 🛠️ Tools Used
